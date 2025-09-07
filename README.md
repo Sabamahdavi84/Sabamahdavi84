@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe" alt="Resume"/>
 </a>
 
-<img src="https://img.icons8.com/?size=100&id=bLp8jngMI59L&format=png&color=000000" alt="Header GIF" style="margin-top:20px; border-radius:50px; width:120px;"/>
 
 <hr style="border:1px solid #e0e0e0; margin:30px 0;">
 
