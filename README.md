@@ -12,7 +12,7 @@
 <h2>💻 About Me</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
 Backend developer with experience in <b>Python, Node.js, JavaScript</b><br>
-Working with <b>PostgreSQL/mongoDB</b> and <b>Prisma</b><br>
+Working with <b>PostgreSQL</b> and <b>Prisma</b><br>
 Practical experience in real projects<br>
 Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 </p>
@@ -22,7 +22,7 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <h2>🛠️ Skills & Tools</h2>
 
 <p align="center">
-<b>Main Backend Skills:</b> Python, JavaScript, Node.js, Express.js, NestJS, PostgreSQL, MongoDB
+<b>Main Backend Skills:</b> Python, JavaScript, Node.js, Express.js, NestJS, PostgreSQL
 </p>
 
 <p align="center">
@@ -32,7 +32,6 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="60"/>
-<img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="60"/>
 
 </p>
 
