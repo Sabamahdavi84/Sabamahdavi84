@@ -11,7 +11,7 @@
 
 <h2>💻 About Me</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
-Backend developer with experience in <b>Python, Node.js, JavaScript</b><br>
+Backend developer with experience in <b>Python, Django, JavaScript, Node.js</b><br>
 Working with <b>PostgreSQL</b> and <b>Prisma</b><br>
 Practical experience in real projects<br>
 Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
@@ -22,7 +22,7 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <h2>🛠️ Skills & Tools</h2>
 
 <p align="center">
-<b>Main Backend Skills:</b> Python, JavaScript, Node.js, Express.js, NestJS, PostgreSQL
+<b>Main Backend Skills:</b> Python, JavaScript, Node.js, Express.js, Django, PostgreSQL
 </p>
 
 <p align="center">
@@ -65,7 +65,9 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6; text-align:center;">
 <b><a href="https://github.com/Sabamahdavi84/TODOLIST">TODOLIST APP</a></b> – Backend built with Python and PostgreSQL.<br>
 <b><a href="https://github.com/Sabamahdavi84/weather-app">Weather App</a></b> – Desktop weather app with Python (Tkinter).<br>
-<b><a href="https://github.com/Sabamahdavi84/barbershop-database">Barbershop DB</a></b> – PostgreSQL project with pgAdmin4.
+<b><a href="https://github.com/Sabamahdavi84/Music-player">Music player</a></b> –Desktop music player built with Python,CustomTkinter,Pygame and Pillow.<br>
+<b><a href="https://github.com/Sabamahdavi84/simple-finance-dashboard">Simple Finance Dashboard</a></b> – A Simple Finance Management app using Streamlit<br>
+<b><a href="https://github.com/Sabamahdavi84/barbershop-database">Barbershop DB</a></b> – PostgreSQL project with pgAdmin4
 </p>
 
 
