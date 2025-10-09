@@ -30,7 +30,7 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <img src="https://img.icons8.com/?size=100&id=42769&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" width="60"/>
-<img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="60"/>
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/django-1.png" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="60"/>
 
 </p>
@@ -65,9 +65,9 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6; text-align:center;">
 <b><a href="https://github.com/Sabamahdavi84/TODOLIST">TODOLIST APP</a></b> – Backend built with Python and PostgreSQL.<br>
 <b><a href="https://github.com/Sabamahdavi84/weather-app">Weather App</a></b> – Desktop weather app with Python (Tkinter).<br>
-<b><a href="https://github.com/Sabamahdavi84/Music-player">Music player</a></b> –Desktop music player built with Python,CustomTkinter,Pygame and Pillow.<br>
+<b><a href="https://github.com/Sabamahdavi84/barbershop-database">Barbershop DB</a></b> – PostgreSQL project with pgAdmin4<br>
 <b><a href="https://github.com/Sabamahdavi84/simple-finance-dashboard">Simple Finance Dashboard</a></b> – A Simple Finance Management app using Streamlit<br>
-<b><a href="https://github.com/Sabamahdavi84/barbershop-database">Barbershop DB</a></b> – PostgreSQL project with pgAdmin4
+<b><a href="https://github.com/Sabamahdavi84/Music-player">Music player</a></b> – Desktop music player built with Python,CustomTkinter,Pygame and Pillow.
 </p>
 
 
