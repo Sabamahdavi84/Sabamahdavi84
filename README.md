@@ -30,7 +30,7 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <img src="https://img.icons8.com/?size=100&id=42769&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" width="60"/>
-<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/django-1.png" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="60"/>
 
 </p>
