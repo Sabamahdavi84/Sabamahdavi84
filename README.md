@@ -15,7 +15,7 @@
 
 <h2>💻 About Me</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
-Backend developer with experience in <b>Python, Django, JavaScript, Node.js</b><br>
+Full-Stack Developer with experience in <b>Python, Node.js, JavaScript, React</b> and<b> Next.js</b><br>
 Working with <b>PostgreSQL</b> and <b>Prisma</b><br>
 Practical experience in real projects<br>
 Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
@@ -39,6 +39,17 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 
 </p>
 
+<b>Main Frontend Skills:</b>React.js, Next.js, HTML, CSS
+</p>
+
+<p align="center">
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60"/>
+
+</p>
+
 
 <p align="center">
 <b>Tools:</b> Git, GitHub , prisma , No-Code/Low-Code Tools
@@ -55,8 +66,6 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 </p>
 
 <p align="center">
-<img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
 </p>
