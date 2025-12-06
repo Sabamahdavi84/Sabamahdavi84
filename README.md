@@ -80,11 +80,7 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 
 <h2>📈 GitHub Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabamahdavi84&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabamahdavi84&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=sabamahdavi84&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 
