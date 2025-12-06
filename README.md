@@ -26,7 +26,7 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <h2>🛠️ Skills & Tools</h2>
 
 <p align="center">
-<b>Main Backend Skills:</b> Python, JavaScript, Node.js, Express.js, Django, PostgreSQL
+<b>Main Backend Skills:</b> Python, JavaScript, Node.js, Express.js, PostgreSQL
 </p>
 
 <p align="center">
@@ -34,7 +34,6 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <img src="https://img.icons8.com/?size=100&id=42769&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" width="60"/>
-<img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="60"/>
 
 </p>
@@ -62,12 +61,13 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 </p>
 
 <p align="center">
-<b>Other Languages / Familiar:</b> HTML, CSS, C, C++
+<b>Other Languages / Familiar:</b> C, C++, Django
 </p>
 
 <p align="center">
 <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" width="60"/>
 </p>
 
 
