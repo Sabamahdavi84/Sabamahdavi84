@@ -5,10 +5,6 @@
 <a href="https://drive.google.com/file/d/1NcVLAtr2JkATqiYS2cSrRMl6ja44K5_A/view">
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe" alt="Resume"/>
 </a>
-<br>
-<a href="https://sabamahdavi8400.wixsite.com/sabaportofolio">
-  <img src="https://img.shields.io/badge/mysite-view by vpn-blue?style=for-the-badge&logo=adobe" alt="mysite"/>
-</a>
 
 
 <hr style="border:1px solid #e0e0e0; margin:30px 0;">
