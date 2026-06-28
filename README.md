@@ -11,10 +11,9 @@
 
 <h2>💻 About Me</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
-I'm a <b>Full-Stack Developer (Frontend-Focused)</b> who enjoys building modern and user-friendly web applications.
-I work mainly with <b>React, Next.js, JavaScript,</b> and also have experience with <b>Node.js, Python, PostgreSQL,</b> and <b>Prisma</b>.
-Practical experience in real projects<br>
-Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
+I'm a <b>Full-Stack Developer (Frontend-Focused)</b> who enjoys building modern and user-friendly web applications.</br>
+I work mainly with <b>React, Next.js, JavaScript,</b> and also have experience with <b>Node.js, Python, PostgreSQL,</b> and <b>Prisma</b>.</br>
+Currently learning, improving, and building projects with a focus on <b>SaaS</b> and <b>scalable applications</b>.
 </p>
 
 <hr style="border:1px solid #e0e0e0; margin:30px 0;">
@@ -22,7 +21,7 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <h2>🛠️ Skills & Tools</h2>
 
 <p align="center">
-<b>Frontend Skills:</b>React.js, Next.js, HTML, CSS
+<b>Frontend Skills:</b>React.js, Next.js, HTML, CSS, JavaScript
 </p>
 
 <p align="center">
@@ -30,15 +29,15 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=42769&format=png&color=000000" width="60"/>
 
 </p>
 
-<b>Backend Skills:</b> Python, JavaScript, Node.js, Express.js, PostgreSQL
+<b>Backend Skills:</b> Python, Node.js, Express.js, PostgreSQL
 </p>
 
 <p align="center">
 <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="60"/>
-<img src="https://img.icons8.com/?size=100&id=42769&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" width="60"/>
 <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="60"/>
