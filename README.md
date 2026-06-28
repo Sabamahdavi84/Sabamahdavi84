@@ -11,8 +11,8 @@
 
 <h2>💻 About Me</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
-Full-Stack Developer with experience in <b>Python, Node.js, JavaScript, React</b> and<b> Next.js</b><br>
-Working with <b>PostgreSQL</b> and <b>Prisma</b><br>
+I'm a <b>Full-Stack Developer (Frontend-Focused)</b> who enjoys building modern and user-friendly web applications.
+I work mainly with <b>React, Next.js, JavaScript,</b> and also have experience with <b>Node.js, Python, PostgreSQL,</b> and <b>Prisma</b>.
 Practical experience in real projects<br>
 Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 </p>
@@ -22,7 +22,18 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 <h2>🛠️ Skills & Tools</h2>
 
 <p align="center">
-<b>Main Backend Skills:</b> Python, JavaScript, Node.js, Express.js, PostgreSQL
+<b>Frontend Skills:</b>React.js, Next.js, HTML, CSS
+</p>
+
+<p align="center">
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="60"/>
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60"/>
+
+</p>
+
+<b>Backend Skills:</b> Python, JavaScript, Node.js, Express.js, PostgreSQL
 </p>
 
 <p align="center">
@@ -34,20 +45,9 @@ Passionate about <b>SaaS projects</b> and <b>team collaboration</b>
 
 </p>
 
-<b>Main Frontend Skills:</b>React.js, Next.js, HTML, CSS
-</p>
 
 <p align="center">
-<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="60"/>
-<img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000" width="60"/>
-<img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="60"/>
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60"/>
-
-</p>
-
-
-<p align="center">
-<b>Tools:</b> Git, GitHub , prisma , No-Code/Low-Code Tools
+<b>Tools:</b> Git, GitHub , prisma
 </p>
 
 <p align="center">
