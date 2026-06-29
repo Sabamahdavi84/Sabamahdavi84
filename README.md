@@ -95,7 +95,7 @@ Currently learning, improving, and building projects with a focus on <b>SaaS</b>
 <a href="mailto:sabamahdavi8400@gmail.com"><img src="https://img.shields.io/badge/Email-sabamahdavi8400@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 <a href="https://github.com/Sabamahdavi84"><img src="https://img.shields.io/badge/GitHub-Sabamahdavi84-black?style=for-the-badge&logo=github" /></a>
 <a href="https://www.linkedin.com/in/saba-mahdavi84/"><img src="https://img.shields.io/badge/LinkedIn-sabamahdavi84-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://t.me/sbaBackDev"><img src="https://img.shields.io/badge/Telegram-@sbaBackDev-blue?style=for-the-badge&logo=telegram" /></a>
+<a href="https://t.me/sbaFullStackDev"><img src="https://img.shields.io/badge/Telegram-@sbaFullStackDev-blue?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 <blockquote style="font-size:18px; color:#555;">“Code, learn, and have fun!” 🚀</blockquote>
