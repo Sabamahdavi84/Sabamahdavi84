@@ -11,7 +11,7 @@
 
 <h2>💻 About Me</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
-I'm a <b>Full-Stack Developer (Frontend-Focused)</b> who enjoys building modern and user-friendly web applications.</br>
+I'm a <b>Full-Stack Developer </b> with a primary focus on front-end development.</br>
 I work mainly with <b>React, Next.js, JavaScript,</b> and also have experience with <b>Node.js, Python, PostgreSQL,</b> and <b>Prisma</b>.</br>
 Currently learning, improving, and building projects with a focus on <b>SaaS</b> and <b>scalable applications</b>.
 </p>
@@ -71,6 +71,7 @@ Currently learning, improving, and building projects with a focus on <b>SaaS</b>
 
 <h2>📂 Projects / Demos</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6; text-align:center;">
+<b><a href="https://github.com/Sabamahdavi84/shoestore_site">Shoe Store Website</a></b> – Front-end responsive website built using HTML, CSS, and JavaScript.<br>
 <b><a href="https://github.com/Sabamahdavi84/TODOLIST">TODOLIST APP</a></b> – Backend built with Python and PostgreSQL.<br>
 <b><a href="https://github.com/Sabamahdavi84/weather-app">Weather App</a></b> – Desktop weather app with Python (Tkinter).<br>
 <b><a href="https://github.com/Sabamahdavi84/barbershop-database">Barbershop DB</a></b> – PostgreSQL project with pgAdmin4<br>
