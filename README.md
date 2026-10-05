@@ -55,18 +55,6 @@ Currently learning, improving, and building projects with a focus on <b>SaaS</b>
 <img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000" width="60"/>
 </p>
 
-<p align="center">
-<b>Other Languages / Familiar:</b> C, C++, Django
-</p>
-
-<p align="center">
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" width="60"/>
-</p>
-
-
-
 <hr style="border:1px solid #e0e0e0; margin:30px 0;">
 
 <h2>📂 Projects / Demos</h2>
