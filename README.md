@@ -2,7 +2,7 @@
 
 <h1 style="color:#4b0082;">👋 Hi! I'm Saba Mahdavi</h1>
 
-<a href="https://drive.google.com/file/d/1NcVLAtr2JkATqiYS2cSrRMl6ja44K5_A/view">
+<a href="https://drive.google.com/file/d/1S1W86jtD4pucssbMBGb3V_O7zCP9oN4D/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe" alt="Resume"/>
 </a>
 
