@@ -11,7 +11,7 @@
 
 <h2>💻 About Me</h2>
 <p style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
-I'm a <b>Full-Stack Developer </b> with a primary focus on front-end development.</br>
+I'm a <b>Full-Stack Developer </b> with a primary <b>focus on front-end development</b>.</br>
 I work mainly with <b>React, Next.js, JavaScript,</b> and also have experience with <b>Node.js, Python, PostgreSQL,</b> and <b>Prisma</b>.</br>
 Currently learning, improving, and building projects with a focus on <b>SaaS</b> and <b>scalable applications</b>.
 </p>
